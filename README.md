@@ -36,5 +36,7 @@
 ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Adobe Analytics](https://img.shields.io/badge/Adobe_Analytics-FF0000?style=for-the-badge&labelColor=black&logo=adobe&logoColor=white)
+
 
 <br/>
