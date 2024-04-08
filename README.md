@@ -2,7 +2,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>Hey There!, I am
-                <b><a target="_blank" href="https://isehaj.netlify.app">Sehajpreet Singh</a></b>
+                <b><a target="_blank" href="https://isehaj.netlify.app">Sehajpreet Singh</a>.</b>
         </samp>
 </h3>
 <p align="center"> 
