@@ -6,7 +6,7 @@
         </samp>
 </h3>
 <p align="center"> 
-  「 I am a Software Developer 」
+  「 I am a Software Developer And Prompt Engineer 」
 </p>
 
 <p align="center">
